@@ -9,5 +9,7 @@ public enum ChestSizes {
         this.size = size;
     }
 
-
+    public int getSize() {
+        return size;
+    }
 }
